@@ -78,7 +78,10 @@ spring.datasource.password=your_password
 
 ## Running the Application
 
-1. Clone the repository
+1. Clone the repository:
+   ```bash
+   https://github.com/MahakAgrawal02/EcommerceWebsite
+   ```
 2. Configure the database connection in `application.properties`
 3. Run the application using Maven:
    ```bash
